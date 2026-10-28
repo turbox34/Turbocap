@@ -1,7 +1,7 @@
 # TurboCap - Video & Screen Recorder Pro
 
 <p align="center">
-  <img src="app.ico" width="84" height="84" alt="TurboCap Logo"><br>
+  <img src="assets/icons/app_icon.png" width="84" height="84" alt="TurboCap Logo"><br>
   <strong>High-Performance 120 FPS Screen Recording & Live Streaming Studio for Windows</strong><br>
   <em>Version 2.6.0 Pro Edition | 100% Free Forever | Zero Watermark | Zero Lag</em>
 </p>
@@ -31,7 +31,7 @@ TurboCap solves these issues completely with:
 ## Preview Showcase
 
 <p align="center">
-  <img src="docs/screenshots/screen_recorder.png" width="95%" alt="TurboCap Studio Recording Interface">
+  <img src="assets/screenshots/screen_recorder.png" width="95%" alt="TurboCap Studio Recording Interface">
 </p>
 
 ---
@@ -73,9 +73,9 @@ TurboCap solves these issues completely with:
 
 | Studio Recorder View | 120 FPS Esports Settings |
 |:---:|:---:|
-| <img src="docs/screenshots/screen_recorder.png" width="460" alt="Studio Recorder"> | <img src="docs/screenshots/screen_settings.png" width="460" alt="120 FPS Settings"> |
+| <img src="assets/screenshots/screen_recorder.png" width="460" alt="Studio Recorder"> | <img src="assets/screenshots/screen_settings.png" width="460" alt="120 FPS Settings"> |
 | **Verified & Authored by Abir** | **Floating Annotation Toolbar** |
-| <img src="docs/screenshots/screen_about.png" width="460" alt="About Tab"> | <img src="docs/screenshots/screen_toolbar.png" width="460" alt="Toolbar"> |
+| <img src="assets/screenshots/screen_about.png" width="460" alt="About Tab"> | <img src="assets/screenshots/screen_toolbar.png" width="460" alt="Toolbar"> |
 
 ---
 
@@ -127,8 +127,10 @@ iscc installer.iss
 
 ```text
 TurboCap/
-|-- docs/
-|   `-- screenshots/          # High-resolution screenshots for README
+|-- assets/
+|   |-- icons/
+|   |   `-- app_icon.png      # Application logo
+|   `-- screenshots/          # High-resolution screenshots
 |       |-- screen_recorder.png
 |       |-- screen_settings.png
 |       |-- screen_about.png
@@ -167,4 +169,3 @@ TurboCap/
 <p align="center">
   Developed by <strong>Abir</strong>
 </p>
-
