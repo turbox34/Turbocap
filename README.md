@@ -1,14 +1,14 @@
-# âš¡ TurboCap â€” Video & Screen Recorder Pro
+# TurboCap - Video & Screen Recorder Pro
 
 <p align="center">
   <img src="app.ico" width="84" height="84" alt="TurboCap Logo"><br>
   <strong>High-Performance 120 FPS Screen Recording & Live Streaming Studio for Windows</strong><br>
-  <em>Version 2.6.0 Pro Edition â€¢ 100% Free Forever â€¢ Zero Watermark â€¢ Zero Lag</em>
+  <em>Version 2.6.0 Pro Edition | 100% Free Forever | Zero Watermark | Zero Lag</em>
 </p>
 
 <p align="center">
-  <a href="#-downloads"><img src="https://img.shields.io/badge/Download-Google%20Drive-blue?style=for-the-badge&logo=google-drive" alt="Google Drive Download"></a>
-  <a href="#-developer--credits"><img src="https://img.shields.io/badge/Author-Abir-10b981?style=for-the-badge&logo=github" alt="Author Abir"></a>
+  <a href="#downloads"><img src="https://img.shields.io/badge/Download-Google%20Drive-blue?style=for-the-badge&logo=google-drive" alt="Google Drive Download"></a>
+  <a href="#developer--credits"><img src="https://img.shields.io/badge/Author-Abir-10b981?style=for-the-badge&logo=github" alt="Author Abir"></a>
   <img src="https://img.shields.io/badge/FPS-120%20Locked%20CFR-ff2a55?style=for-the-badge" alt="120 FPS">
   <img src="https://img.shields.io/badge/Platform-Windows%2011%20%7C%2010%20%7C%207-00e5ff?style=for-the-badge&logo=windows" alt="Windows Support">
   <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" alt="MIT License">
@@ -16,153 +16,155 @@
 
 ---
 
-## ðŸ“– à¦ªà§à¦°à¦œà§‡à¦•à§à¦Ÿ à¦¸à¦¾à¦°à¦¸à¦‚à¦•à§à¦·à§‡à¦ª (About TurboCap)
+## Overview
 
-**TurboCap** à¦¹à¦²à§‹ à¦‰à¦‡à¦¨à§à¦¡à§‹à¦œà§‡à¦° à¦œà¦¨à§à¦¯ à¦¬à¦¿à¦¶à§‡à¦·à¦­à¦¾à¦¬à§‡ à¦¤à§ˆà¦°à¦¿ à¦à¦•à¦Ÿà¦¿ à¦†à¦²à§à¦Ÿà§à¦°à¦¾-à¦²à¦¾à¦‡à¦Ÿà¦“à¦¯à¦¼à§‡à¦Ÿ, à¦¹à¦¾à¦‡-à¦ªà¦¾à¦°à¦«à¦°à¦®à§à¦¯à¦¾à¦¨à§à¦¸ à¦à¦¬à¦‚ à¦ªà§à¦°à¦«à§‡à¦¶à¦¨à¦¾à¦² à¦¸à§à¦•à§à¦°à¦¿à¦¨ à¦°à§‡à¦•à¦°à§à¦¡à¦¾à¦° à¦“ à¦²à¦¾à¦‡à¦­ à¦¸à§à¦Ÿà§à¦°à¦¿à¦®à¦¿à¦‚ à¦¸à¦«à¦Ÿà¦“à¦¯à¦¼à§à¦¯à¦¾à¦°à¥¤ à¦¸à¦¾à¦§à¦¾à¦°à¦£ à¦…à¦¨à§‡à¦• à¦¸à¦«à¦Ÿà¦“à¦¯à¦¼à§à¦¯à¦¾à¦°à§‡ à¦¸à§à¦•à§à¦°à¦¿à¦¨ à¦°à§‡à¦•à¦°à§à¦¡ à¦•à¦°à¦¾à¦° à¦¸à¦®à¦¯à¦¼ à¦­à¦¿à¦¡à¦¿à¦“ à¦†à¦Ÿà¦•à§‡ à¦¯à¦¾à¦“à¦¯à¦¼à¦¾ ("à¦¬à¦¾à§œà¦¿ à¦®à¦¾à¦°à¦¾"), à¦«à§à¦°à§‡à¦® à¦¡à§à¦°à¦ª à¦¹à¦“à§Ÿà¦¾, à¦à¦¾à¦ªà¦¸à¦¾ à¦­à¦¾à¦¬ à¦•à¦¿à¦‚à¦¬à¦¾ à¦¬à¦¿à¦°à¦•à§à¦¤à¦¿à¦•à¦° à¦“à¦¯à¦¼à¦¾à¦Ÿà¦¾à¦°à¦®à¦¾à¦°à§à¦• à¦“ à¦Ÿà¦¾à¦‡à¦® à¦²à¦¿à¦®à¦¿à¦Ÿ à¦¥à¦¾à¦•à§‡à¥¤ 
+**TurboCap** is an ultra-lightweight, high-performance screen recording and live streaming studio engineered for Windows. Many ordinary screen recorders suffer from severe frame drops, stuttering, washed-out colors, and intrusive watermarks. 
 
-TurboCap-à¦ à¦à¦‡ à¦¸à¦®à¦¸à§à¦¤ à¦¸à¦®à¦¸à§à¦¯à¦¾à¦° à¦¸à¦®à¦¾à¦§à¦¾à¦¨ à¦¹à¦¿à¦¸à§‡à¦¬à§‡ à¦¯à§à¦•à§à¦¤ à¦•à¦°à¦¾ à¦¹à¦¯à¦¼à§‡à¦›à§‡:
-- **120 FPS Constant Framerate (CFR)** â€“ à¦¹à¦¾à¦‡-à¦ªà§à¦°à¦¿à¦¸à¦¿à¦¶à¦¨ à§§ms à¦®à¦¾à¦²à§à¦Ÿà¦¿à¦®à¦¿à¦¡à¦¿à¦¯à¦¼à¦¾ à¦Ÿà¦¾à¦‡à¦®à¦¾à¦°à¥¤
-- **Full PC sRGB (0-255) BT.709 à¦•à¦¾à¦²à¦¾à¦° à¦•à§à¦²à§à¦¯à¦¾à¦°à¦¿à¦Ÿà¦¿** â€“ à¦Ÿà§‡à¦•à§à¦¸à¦Ÿ à¦“ à¦—à§à¦°à¦¾à¦«à¦¿à¦•à§à¦¸à§‡ à¦•à§‹à¦¨à§‹ à¦à¦¾à¦ªà¦¸à¦¾ à¦­à¦¾à¦¬ à¦¨à§‡à¦‡à¥¤
-- **à¦²à¦¾à¦‡à¦­ à¦¸à§à¦•à§à¦°à¦¿à¦¨ à¦…à§à¦¯à¦¾à¦¨à§‹à¦Ÿà§‡à¦¶à¦¨ à¦Ÿà§à¦²à¦¬à¦¾à¦°** â€“ à¦°à§‡à¦•à¦°à§à¦¡à¦¿à¦‚ à¦šà¦²à¦¾à¦•à¦¾à¦²à§€à¦¨ à¦¸à§à¦•à§à¦°à¦¿à¦¨à§‡ à¦†à¦à¦•à¦¾à¦†à¦à¦•à¦¿, à¦¤à§€à¦°à¦šà¦¿à¦¹à§à¦¨, à¦¬à¦•à§à¦¸ à¦“ à¦Ÿà§‡à¦•à§à¦¸à¦Ÿ à¦²à§‡à¦–à¦¾à¦° à¦¸à§à¦¬à¦¿à¦§à¦¾à¥¤
-- **à§§à§¦à§¦% à¦«à§à¦°à¦¿ à¦“ à¦“à¦¯à¦¼à¦¾à¦Ÿà¦¾à¦°à¦®à¦¾à¦°à§à¦•à¦¬à¦¿à¦¹à§€à¦¨** â€“ à¦•à§‹à¦¨à§‹ à¦²à§à¦•à¦¾à¦¨à§‹ à¦–à¦°à¦š à¦¬à¦¾ à¦¸à¦¾à¦¬à¦¸à§à¦•à§à¦°à¦¿à¦ªà¦¶à¦¨ à¦¨à§‡à¦‡à¥¤
+TurboCap solves these issues completely with:
+* **Rock-Solid 120 FPS & 60 FPS (Constant Framerate - CFR):** Enforces a 1ms high-precision Windows multimedia timer (`timeBeginPeriod(1)`) with a 500MB zero-drop thread buffer.
+* **Lossless Visual Clarity (CRF 6):** Enforces Full PC sRGB (0-255) BT.709 color matrix, delivering deep rich blacks and razor-sharp text with zero washed-out haze.
+* **Live Screen Annotation Toolbar:** Draw directly on the screen with Pen, Arrow, Rectangle Box, Marker, Text tool, and 10-Color Palette during recordings.
+* **100% Free & Standalone:** No watermarks, no recording time limits, and bundled with standalone FFmpeg engine (no extra codecs required).
 
 ---
 
-## ðŸ“¸ Preview Showcase
+## Preview Showcase
 
 <p align="center">
-  <img src="assets/screenshots/screen_recorder.png" width="95%" alt="TurboCap Studio Recording Interface">
+  <img src="docs/screenshots/screen_recorder.png" width="95%" alt="TurboCap Studio Recording Interface">
 </p>
 
 ---
 
-## ðŸŒŸ à¦®à§‚à¦² à¦«à¦¿à¦šà¦¾à¦°à¦¸à¦®à§‚à¦¹ (Key Features)
+## Key Features
 
-### 1. âš¡ Rock-Solid 120 FPS & 60 FPS (Zero Lag CFR)
-- à¦‰à¦‡à¦¨à§à¦¡à§‹à¦œà§‡à¦° à¦¹à¦¾à¦‡-à¦ªà§à¦°à¦¿à¦¸à¦¿à¦¶à¦¨ `timeBeginPeriod(1)` à§§ à¦®à¦¿à¦²à¦¿à¦¸à§‡à¦•à§‡à¦¨à§à¦¡ à¦¹à¦¾à¦°à§à¦¡à¦“à¦¯à¦¼à§à¦¯à¦¾à¦° à¦Ÿà¦¾à¦‡à¦®à¦¾à¦° à¦°à§‡à¦œà§‹à¦²à¦¿à¦‰à¦¶à¦¨ à¦¬à§à¦¯à¦¬à¦¹à¦¾à¦° à¦•à¦°à§‡ à¦«à§à¦°à§‡à¦®à¦°à§‡à¦Ÿ à¦²à¦• à¦°à¦¾à¦–à¦¾ à¦¹à§Ÿà¥¤
-- 500MB à¦œà¦¿à¦°à§‹-à¦¡à§à¦°à¦ª à¦¥à§à¦°à§‡à¦¡ à¦•à¦¿à¦‰ à¦¬à¦¾à¦«à¦¾à¦° à¦¸à¦‚à¦¯à§à¦•à§à¦¤, à¦¯à¦¾à¦° à¦«à¦²à§‡ à¦¹à¦¾à¦‡-à¦à¦¨à§à¦¡ à¦—à§‡à¦®à¦¿à¦‚ à¦¬à¦¾ à¦«à¦¾à¦¸à§à¦Ÿ à¦®à¦¾à¦‰à¦¸ à¦®à§à¦­à¦®à§‡à¦¨à§à¦Ÿà§‡à¦“ à¦­à¦¿à¦¡à¦¿à¦“ à¦•à¦–à¦¨à§‹ à¦†à¦Ÿà¦•à§‡ à¦¯à¦¾à§Ÿ à¦¨à¦¾ à¦¬à¦¾ à¦«à§à¦°à§‡à¦® à¦¡à§à¦°à¦ª à¦¹à§Ÿ à¦¨à¦¾à¥¤
+### 1. Ultra-Smooth 120 FPS & 60 FPS (Esports Grade CFR)
+* Hardware-level 1ms multimedia timer eliminates Windows thread sleep jitter.
+* 500MB input buffer and thread_queue_size 1024 prevent frame drops during fast motion and high-refresh gaming.
 
-### 2. ðŸ’Ž à¦•à§à¦°à¦¿à¦¸à§à¦Ÿà¦¾à¦² à¦•à§à¦²à¦¿à§Ÿà¦¾à¦° Lossless Visual Fidelity
-- à¦¡à¦¿à¦«à¦²à§à¦Ÿ **CRF 6 Lossless Master Quality** à¦à¦¨à¦•à§‹à¦¡à¦¿à¦‚ à¦ªà§à¦°à§‹à¦«à¦¾à¦‡à¦²à¥¤
-- **Full PC sRGB (0-255) BT.709** à¦•à¦¾à¦²à¦¾à¦° à¦®à§à¦¯à¦¾à¦Ÿà§à¦°à¦¿à¦•à§à¦¸ à¦¸à¦®à¦°à§à¦¥à¦¨ à¦•à¦°à§‡à¥¤ à¦«à¦²à§‡ à¦¸à¦¾à¦§à¦¾à¦°à¦£ à¦°à§‡à¦•à¦°à§à¦¡à¦¾à¦°à§‡à¦° à¦®à¦¤à§‹ à¦°à¦™ à¦«à§à¦¯à¦¾à¦•à¦¾à¦¶à§‡ (washed-out TV range) à¦²à¦¾à¦—à§‡ à¦¨à¦¾, à¦¬à¦°à¦‚ à¦¡à¦¿à¦ª à¦¬à§à¦²à§à¦¯à¦¾à¦• à¦à¦¬à¦‚ à¦¨à¦¿à¦–à§à¦à¦¤ à¦¶à¦¾à¦°à§à¦ªà¦¨à§‡à¦¸ à¦ªà¦¾à¦“à§Ÿà¦¾ à¦¯à¦¾à§Ÿà¥¤
+### 2. Lossless Visual Fidelity (CRF 6 & Full PC sRGB)
+* Visually lossless master recording quality profile.
+* Full BT.709 sRGB color range (0-255) prevents the washed-out grey haze found in traditional recording tools.
 
-### 3. âœï¸ à¦²à¦¾à¦‡à¦­ à¦«à§à¦²à§‹à¦Ÿà¦¿à¦‚ à¦¡à§à¦°à¦¯à¦¼à¦¿à¦‚ à¦Ÿà§à¦²à¦¬à¦¾à¦° (Real-Time Annotations)
-- à¦°à§‡à¦•à¦°à§à¦¡à¦¿à¦‚ à¦šà¦²à¦¾à¦•à¦¾à¦²à§€à¦¨ à¦¸à§à¦•à§à¦°à¦¿à¦¨à§‡à¦° à¦¯à§‡à¦•à§‹à¦¨à§‹ à¦œà¦¾à§Ÿà¦—à¦¾à§Ÿ à¦®à¦¾à¦‰à¦¸ à¦¦à¦¿à§Ÿà§‡ à¦¸à¦°à¦¾à¦¸à¦°à¦¿ à¦†à¦à¦•à¦¾à¦†à¦à¦•à¦¿ à¦•à¦°à¦¾à¦° à¦œà¦¨à§à¦¯ à¦°à§Ÿà§‡à¦›à§‡ à¦«à§à¦²à§‹à¦Ÿà¦¿à¦‚ à¦—à§à¦²à¦¾à¦¸à¦¬à¦¾à¦°:
-  - **Pointer Mode:** à¦¸à¦¾à¦§à¦¾à¦°à¦£ à¦®à¦¾à¦‰à¦¸ à¦•à§à¦²à¦¿à¦• à¦®à§‹à¦¡à¥¤
-  - **Pen Tool:** à¦«à§à¦°à¦¿à¦¹à§à¦¯à¦¾à¦¨à§à¦¡ à¦¡à§à¦°à¦¯à¦¼à¦¿à¦‚à¥¤
-  - **Arrow Tool:** à¦¨à¦¿à¦°à§à¦¦à¦¿à¦·à§à¦Ÿ à¦…à¦ªà¦¶à¦¨ à¦¬à¦¾ à¦¬à¦¾à¦Ÿà¦¨ à¦¦à§‡à¦–à¦¾à¦¤à§‡ à¦¡à¦¿à¦°à§‡à¦•à¦¶à¦¨à¦¾à¦² à¦¤à§€à¦°à¦šà¦¿à¦¹à§à¦¨à¥¤
-  - **Rectangle Box:** à¦¯à§‡à¦•à§‹à¦¨à§‹ à¦®à§‡à¦¨à§ à¦¬à¦¾ à¦‰à¦‡à¦¨à§à¦¡à§‹ à¦¹à¦¾à¦‡à¦²à¦¾à¦‡à¦Ÿ à¦•à¦°à¦¤à§‡ à¦šà¦¤à§à¦°à§à¦­à§à¦œ à¦¬à¦•à§à¦¸à¥¤
-  - **Marker / Highlighter:** à¦²à§‡à¦–à¦¾à¦° à¦‰à¦ªà¦° à¦Ÿà§à¦°à¦¾à¦¨à§à¦¸à¦²à§à¦¸à§‡à¦¨à§à¦Ÿ à¦®à¦¾à¦°à§à¦•à¦¾à¦°à¥¤
-  - **Text Tool:** à¦¸à§à¦•à§à¦°à¦¿à¦¨à§‡ à¦•à§à¦²à¦¿à¦• à¦•à¦°à§‡ à¦¸à¦°à¦¾à¦¸à¦°à¦¿ à¦Ÿà§‡à¦•à§à¦¸à¦Ÿ à¦²à§‡à¦–à¦¾à¦° à¦¸à§à¦¬à¦¿à¦§à¦¾à¥¤
-  - **10-Color Palette:** à§§à§¦à¦Ÿà¦¿ à¦†à¦•à¦°à§à¦·à¦£à§€à§Ÿ à¦•à¦¾à¦²à¦¾à¦° à¦ªà§à¦¯à¦¾à¦²à§‡à¦Ÿ à¦“ à¦•à¦¾à¦²à¦¾à¦° à¦ªà¦¿à¦•à¦¾à¦°à¥¤
-  - **Undo & Clear:** à¦à¦• à¦•à§à¦²à¦¿à¦•à§‡ à¦†à¦—à§‡à¦° à¦¡à§à¦°à§Ÿà¦¿à¦‚ à¦®à§à¦›à¦¾ à¦¬à¦¾ à¦•à§à¦²à¦¿à§Ÿà¦¾à¦° à¦•à¦°à¦¾à¥¤
+### 3. Floating Screen Annotation Toolbar
+* Floating transparent drawing bar with quick keyboard shortcuts:
+  * **Pointer Tool:** Standard desktop mouse interaction.
+  * **Pen Tool:** Freehand sketching and notes.
+  * **Arrow Tool:** Point out buttons, menus, and UI components.
+  * **Rectangle Box:** Highlight windows and text areas.
+  * **Marker / Highlighter:** Translucent highlighting over documents and code.
+  * **Text Tool:** Inline click-to-type text anywhere on the screen.
+  * **10-Color Palette:** Vibrant neon colors with instant undo and clear.
 
-### 4. ðŸŽ™ï¸ à¦¸à§à¦Ÿà§à¦¡à¦¿à¦“-à¦—à§à¦°à§‡à¦¡ 320 kbps AAC à¦…à¦¡à¦¿à¦“
-- à¦¹à¦¾à¦‡-à¦•à§‹à¦¯à¦¼à¦¾à¦²à¦¿à¦Ÿà¦¿ 320 kbps 48kHz à¦¸à§à¦Ÿà§‡à¦°à¦¿à¦“ à¦¸à¦¾à¦‰à¦¨à§à¦¡ à¦°à§‡à¦•à¦°à§à¦¡à¥¤
-- à¦®à¦¾à¦‡à¦•à§à¦°à§‹à¦«à§‹à¦¨ à¦à¦¬à¦‚ à¦ªà¦¿à¦¸à¦¿à¦° à¦‡à¦¨à§à¦Ÿà¦¾à¦°à¦¨à¦¾à¦² à¦…à¦¡à¦¿à¦“ à¦†à¦²à¦¾à¦¦à¦¾à¦­à¦¾à¦¬à§‡ à¦•à¦¿à¦‚à¦¬à¦¾ à¦à¦•à¦¸à¦¾à¦¥à§‡ à¦°à§‡à¦•à¦°à§à¦¡ à¦•à¦°à¦¾à¦° à¦…à¦ªà¦¶à¦¨à¥¤
-- à¦²à¦¾à¦‡à¦­ à¦¸à¦¾à¦‰à¦¨à§à¦¡ à¦²à§‡à¦­à§‡à¦² à¦Ÿà§à¦°à§à¦¯à¦¾à¦• à¦•à¦°à¦¾à¦° à¦œà¦¨à§à¦¯ à¦°à¦¿à¦¯à¦¼à§‡à¦²-à¦Ÿà¦¾à¦‡à¦® VU à¦®à¦¿à¦Ÿà¦¾à¦° à¦¬à¦¾à¦°à¥¤
+### 4. Studio-Grade 320 kbps AAC Audio
+* High-fidelity 320 kbps 48kHz stereo sound recording.
+* Independent microphone and desktop system audio capture with real-time VU visualizer meters.
 
-### 5. ðŸ“¡ à¦®à¦¾à¦²à§à¦Ÿà¦¿-à¦ªà§à¦²à§à¦¯à¦¾à¦Ÿà¦«à¦°à§à¦® RTMP à¦²à¦¾à¦‡à¦­ à¦¸à§à¦Ÿà§à¦°à¦¿à¦®à¦¿à¦‚
-- à¦¸à¦°à¦¾à¦¸à¦°à¦¿ TurboCap à¦¥à§‡à¦•à§‡à¦‡ YouTube Live, Facebook Live, Twitch à¦•à¦¿à¦‚à¦¬à¦¾ Kick-à¦ à¦²à¦¾à¦‡à¦­ à¦¸à§à¦Ÿà§à¦°à¦¿à¦® à¦•à¦°à¦¾à¦° à¦¸à§à¦¬à¦¿à¦§à¦¾à¥¤
+### 5. Multi-Platform RTMP Live Streaming
+* Direct live broadcasting to YouTube Live, Facebook Live, Twitch, and Kick with customizable bitrates and low-latency tuning.
 
-### 6. ðŸ›¡ï¸ 100% à¦¸à§à¦Ÿà§à¦¯à¦¾à¦¨à§à¦¡à¦…à§à¦¯à¦¾à¦²à§‹à¦¨ & à¦ªà§à¦°à¦¾à¦‡à¦­à§‡à¦¸à¦¿-à¦«à¦¾à¦°à§à¦¸à§à¦Ÿ
-- à¦•à§‹à¦¨à§‹ à¦…à¦¤à¦¿à¦°à¦¿à¦•à§à¦¤ à¦•à§‹à¦¡à§‡à¦• à¦¬à¦¾ à¦ªà§à¦²à¦¾à¦—à¦‡à¦¨ à¦‡à¦¨à§à¦¸à¦Ÿà¦² à¦•à¦°à¦¤à§‡ à¦¹à§Ÿ à¦¨à¦¾ (FFmpeg à¦‡à¦žà§à¦œà¦¿à¦¨ à¦¸à¦°à¦¾à¦¸à¦°à¦¿ à¦ªà§à¦¯à¦¾à¦•à§‡à¦œà¦¡)à¥¤
-- à¦•à§‹à¦¨à§‹ à¦“à§Ÿà¦¾à¦Ÿà¦¾à¦°à¦®à¦¾à¦°à§à¦• à¦¨à§‡à¦‡, à¦•à§‹à¦¨à§‹ à¦°à§‡à¦•à¦°à§à¦¡à¦¿à¦‚ à¦Ÿà¦¾à¦‡à¦® à¦²à¦¿à¦®à¦¿à¦Ÿ à¦¨à§‡à¦‡ à¦à¦¬à¦‚ à¦•à§‹à¦¨à§‹ à¦¬à§à¦¯à¦¾à¦•à¦—à§à¦°à¦¾à¦‰à¦¨à§à¦¡ à¦¬à§à¦²à¦Ÿà¦“à¦¯à¦¼à§à¦¯à¦¾à¦° à¦¬à¦¾ à¦Ÿà§à¦°à§à¦¯à¦¾à¦•à¦¿à¦‚ à¦¨à§‡à¦‡à¥¤
+### 6. Standalone & Privacy-First
+* Bundled with FFmpeg 64-bit engine - zero extra installs or codecs needed.
+* Zero telemetry, zero bloatware, and zero background services.
 
 ---
 
-## ðŸ–¼ï¸ à¦­à¦¿à¦œà§à¦¯à§à§Ÿà¦¾à¦² à¦—à§à¦¯à¦¾à¦²à¦¾à¦°à¦¿ (Screenshots Gallery)
+## Screenshots Gallery
 
-| ðŸ–¥ï¸ Studio Recorder View | âš™ï¸ 120 FPS Esports Settings |
+| Studio Recorder View | 120 FPS Esports Settings |
 |:---:|:---:|
-| <img src="assets/screenshots/screen_recorder.png" width="460" alt="Studio Recorder"> | <img src="assets/screenshots/screen_settings.png" width="460" alt="120 FPS Settings"> |
-| **âš¡ Verified & Authored by Abir** | **âœï¸ Floating Annotation Toolbar** |
-| <img src="assets/screenshots/screen_about.png" width="460" alt="About Tab"> | <img src="assets/screenshots/screen_toolbar.png" width="460" alt="Toolbar"> |
+| <img src="docs/screenshots/screen_recorder.png" width="460" alt="Studio Recorder"> | <img src="docs/screenshots/screen_settings.png" width="460" alt="120 FPS Settings"> |
+| **Verified & Authored by Abir** | **Floating Annotation Toolbar** |
+| <img src="docs/screenshots/screen_about.png" width="460" alt="About Tab"> | <img src="docs/screenshots/screen_toolbar.png" width="460" alt="Toolbar"> |
 
 ---
 
-## ðŸ“¥ à¦¡à¦¾à¦‰à¦¨à¦²à§‹à¦¡ à¦²à¦¿à¦™à§à¦• (Downloads)
+## Downloads
 
-* **Google Drive Direct Mirror (Standalone Setup):**
-  ðŸ‘‰ [Download TurboCap_Setup.zip on Google Drive](https://drive.google.com/file/d/1kuxVeJvwLijQ-79vS04lNrCdkZOWHamQ/view?usp=sharing)
+* **Standalone Setup Installer (Google Drive Mirror):**
+  [Download TurboCap_Setup.zip on Google Drive](https://drive.google.com/file/d/1kuxVeJvwLijQ-79vS04lNrCdkZOWHamQ/view?usp=sharing)
 * **GitHub Releases:**
-  ðŸ‘‰ [Download latest release from GitHub Releases](../../releases)
+  Available under the Releases tab of this repository.
 
 ---
 
-## âŒ¨ï¸ à¦¡à¦¿à¦«à¦²à§à¦Ÿ à¦¶à¦°à§à¦Ÿà¦•à¦¾à¦Ÿ à¦•à¦¿ (Keyboard Hotkeys)
+## Default Keyboard Hotkeys
 
-| à¦¹à¦Ÿà¦•à¦¿ (Hotkey) | à¦…à§à¦¯à¦¾à¦•à¦¶à¦¨ (Action) |
+| Hotkey | Action |
 |:---:|:---|
-| **F9** | à¦°à§‡à¦•à¦°à§à¦¡à¦¿à¦‚ à¦¶à§à¦°à§ / à¦ªà¦œ (Pause) / à¦ªà§à¦¨à¦°à¦¾à¦¯à¦¼ à¦šà¦¾à¦²à§ (Resume) |
-| **F10** | à¦°à§‡à¦•à¦°à§à¦¡à¦¿à¦‚ à¦¬à¦¨à§à¦§ à¦•à¦°à¦¾ à¦à¦¬à¦‚ à¦¸à§à¦¬à§Ÿà¦‚à¦•à§à¦°à¦¿à§Ÿà¦­à¦¾à¦¬à§‡ à¦­à¦¿à¦¡à¦¿à¦“ à¦¸à§‡à¦­ à¦•à¦°à¦¾ |
-| **Camera Icon** | à¦à¦• à¦•à§à¦²à¦¿à¦•à§‡ à¦†à¦²à§à¦Ÿà§à¦°à¦¾ à¦¹à¦¾à¦‡-à¦°à§‡à¦œà§‹à¦²à¦¿à¦‰à¦¶à¦¨ à¦¸à§à¦•à§à¦°à¦¿à¦¨à¦¶à¦Ÿ à¦¨à§‡à¦“à§Ÿà¦¾ |
+| **F9** | Start Recording / Pause / Resume |
+| **F10** | Stop Recording & Auto-Save Video |
+| **Camera Icon** | Instant High-Resolution Screen Snapshot |
 
 ---
 
-## ðŸš€ à¦¸à§‹à¦°à§à¦¸ à¦•à§‹à¦¡ à¦¥à§‡à¦•à§‡ à¦¬à¦¿à¦²à§à¦¡ à¦•à¦°à¦¾à¦° à¦¨à¦¿à§Ÿà¦® (Build from Source)
+## Building from Source
 
-TurboCap à¦¸à¦®à§à¦ªà§‚à¦°à§à¦£ à¦ªà¦¿à¦“à¦° C# à¦à¦¬à¦‚ à¦‰à¦‡à¦¨à§à¦¡à§‹à¦œ à¦«à¦°à§à¦®à¦¸à§‡ à¦¤à§ˆà¦°à¦¿à¥¤ à¦à¦Ÿà¦¿ à¦¬à¦¿à¦²à§à¦¡ à¦•à¦°à¦¾à¦° à¦œà¦¨à§à¦¯ à¦­à¦¾à¦°à§€ à¦•à§‹à¦¨à§‹ Visual Studio à¦‡à¦¨à§à¦¸à¦Ÿà¦² à¦•à¦°à¦¾ à¦¬à¦¾à¦§à§à¦¯à¦¤à¦¾à¦®à§‚à¦²à¦• à¦¨à§Ÿ; à¦‰à¦‡à¦¨à§à¦¡à§‹à¦œà§‡à¦° à¦¬à¦¿à¦²à§à¦Ÿ-à¦‡à¦¨ `.NET Framework`-à¦à¦° à¦®à¦¾à¦§à§à¦¯à¦®à§‡à¦‡ à¦à¦• à¦¸à§‡à¦•à§‡à¦¨à§à¦¡à§‡ à¦¬à¦¿à¦²à§à¦¡ à¦•à¦°à¦¾ à¦¯à¦¾à§Ÿà¥¤
+TurboCap is built in pure C# using Windows Forms and .NET Framework 4.0 - 4.8. It requires no heavy Visual Studio IDE installation to compile.
 
-### à§§. à¦“à¦¯à¦¼à¦¾à¦¨-à¦•à§à¦²à¦¿à¦• à¦¬à¦¿à¦²à§à¦¡ (Easy Method)
-à¦ªà§à¦°à¦œà§‡à¦•à§à¦Ÿ à¦«à§‹à¦²à§à¦¡à¦¾à¦°à§‡ à¦¥à¦¾à¦•à¦¾ `build.bat` à¦«à¦¾à¦‡à¦²à§‡ à¦¡à¦¾à¦¬à¦²-à¦•à§à¦²à¦¿à¦• à¦•à¦°à§à¦¨, à¦…à¦¥à¦¬à¦¾ PowerShell / CMD à¦“à¦ªà§‡à¦¨ à¦•à¦°à§‡ à¦°à¦¾à¦¨ à¦•à¦°à§à¦¨:
+### 1. One-Click Compile
+Double-click `build.bat` in the project root folder, or run in PowerShell / CMD:
 ```cmd
 build.bat
 ```
 
-### à§¨. à¦®à§à¦¯à¦¾à¦¨à§à¦¯à¦¼à¦¾à¦² à¦•à¦®à§à¦ªà¦¾à¦‡à¦²à§‡à¦¶à¦¨ (via `csc.exe`)
+### 2. Manual Command-Line Compilation (csc.exe)
 ```cmd
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /target:winexe /optimize+ /win32manifest:app.manifest /win32icon:app.ico /out:TurboCap.exe /r:System.dll,System.Core.dll,System.Drawing.dll,System.Windows.Forms.dll *.cs
 ```
 
-### à§©. à¦¸à¦®à§à¦ªà§‚à¦°à§à¦£ à¦‡à¦¨à§à¦¸à¦Ÿà¦²à¦¾à¦° à¦¤à§ˆà¦°à¦¿ (Inno Setup)
-`TurboCap_Setup.exe` à¦¤à§ˆà¦°à¦¿ à¦•à¦°à¦¤à§‡:
-1. [Inno Setup 6](https://jrsoftware.org/isdl.php) à¦‡à¦¨à§à¦¸à¦Ÿà¦² à¦•à¦°à§à¦¨à¥¤
-2. `installer.iss` à¦«à¦¾à¦‡à¦²à§‡ à¦°à¦¾à¦‡à¦Ÿ-à¦•à§à¦²à¦¿à¦• à¦•à¦°à§‡ **Compile** à¦šà¦¾à¦ªà§à¦¨à¥¤
-
----
-
-## ðŸ“ à¦°à¦¿à¦ªà§‹à¦œà¦¿à¦Ÿà¦°à¦¿ à¦«à¦¾à¦‡à¦² à¦¸à§à¦Ÿà§à¦°à¦¾à¦•à¦šà¦¾à¦° (Repository Structure)
-
-```text
-TurboCap/
-â”œâ”€â”€ docs/
-â”‚   â””â”€â”€ screenshots/          # High-resolution screenshots for README
-â”‚       â”œâ”€â”€ screen_recorder.png
-â”‚       â”œâ”€â”€ screen_settings.png
-â”‚       â”œâ”€â”€ screen_about.png
-â”‚       â””â”€â”€ screen_toolbar.png
-â”œâ”€â”€ AreaSelectorForm.cs       # Custom region selection with crosshair
-â”œâ”€â”€ AssemblyInfo.cs           # Assembly metadata & Abir credits
-â”œâ”€â”€ FloatingToolbarForm.cs    # Floating annotation toolbar UI
-â”œâ”€â”€ GlobalHotkeys.cs          # Low-level Windows keyboard hook (F9, F10)
-â”œâ”€â”€ IconFactory.cs            # Dynamic vector icon generation
-â”œâ”€â”€ MainForm.cs               # Main studio viewport, modes & settings
-â”œâ”€â”€ Program.cs                # Application entry point
-â”œâ”€â”€ RecorderEngine.cs         # FFmpeg CFR 120 FPS high-precision engine
-â”œâ”€â”€ RecordingBorderForm.cs    # Glowing red capture boundary overlay
-â”œâ”€â”€ RecordingFinishedDialog.cs# Instant preview dialog after capture
-â”œâ”€â”€ ScreenDrawOverlay.cs      # Transparent canvas for pen, shapes & text
-â”œâ”€â”€ ThemeManager.cs           # Cyber-Dark UI colors & styles
-â”œâ”€â”€ app.ico                   # High-res application icon
-â”œâ”€â”€ app.manifest              # Windows DPI awareness & admin privileges
-â”œâ”€â”€ build.bat                 # 1-Click C# compiler script
-â”œâ”€â”€ installer.iss             # Inno Setup 6 installer script
-â”œâ”€â”€ preview_wallpaper.jpg     # 4K mountain lake viewport wallpaper
-â”œâ”€â”€ LICENSE                   # MIT License
-â””â”€â”€ README.md                 # Complete documentation
+### 3. Packaging Standalone Installer (Inno Setup)
+To build `TurboCap_Setup.exe`:
+1. Install [Inno Setup 6](https://jrsoftware.org/isdl.php).
+2. Right-click `installer.iss` and click **Compile**, or run:
+```cmd
+iscc installer.iss
 ```
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Developer & Credits
+## Repository Structure
+
+```text
+TurboCap/
+|-- docs/
+|   `-- screenshots/          # High-resolution screenshots for README
+|       |-- screen_recorder.png
+|       |-- screen_settings.png
+|       |-- screen_about.png
+|       `-- screen_toolbar.png
+|-- AreaSelectorForm.cs       # Custom region selection with crosshair
+|-- AssemblyInfo.cs           # Assembly metadata & Abir credits
+|-- FloatingToolbarForm.cs    # Floating annotation toolbar UI
+|-- GlobalHotkeys.cs          # Low-level Windows keyboard hook (F9, F10)
+|-- IconFactory.cs            # Dynamic vector icon generation
+|-- MainForm.cs               # Main studio viewport, modes & settings
+|-- Program.cs                # Application entry point
+|-- RecorderEngine.cs         # FFmpeg CFR 120 FPS high-precision engine
+|-- RecordingBorderForm.cs    # Glowing red capture boundary overlay
+|-- RecordingFinishedDialog.cs# Instant preview dialog after capture
+|-- ScreenDrawOverlay.cs      # Transparent canvas for pen, shapes & text
+|-- ThemeManager.cs           # Cyber-Dark UI colors & styles
+|-- app.ico                   # High-res application icon
+|-- app.manifest              # Windows DPI awareness & admin privileges
+|-- build.bat                 # 1-Click C# compiler script
+|-- installer.iss             # Inno Setup 6 installer script
+|-- preview_wallpaper.jpg     # 4K mountain lake viewport wallpaper
+|-- LICENSE                   # MIT License
+`-- README.md                 # Project documentation
+```
+
+---
+
+## Developer & Credits
 
 * **Developer:** Abir
 * **Product:** TurboCap Pro Edition (v2.6.0)
-* **License:** [MIT License](LICENSE) â€” à¦¸à¦®à§à¦ªà§‚à¦°à§à¦£ à¦«à§à¦°à¦¿ à¦à¦¬à¦‚ à¦“à¦ªà§‡à¦¨ à¦¸à§‹à¦°à§à¦¸à¥¤
+* **License:** [MIT License](LICENSE) - 100% Free and Open Source.
 
 ---
 
 <p align="center">
-  âš¡ Developed with â¤ï¸ by <strong>Abir</strong>
+  Developed by <strong>Abir</strong>
 </p>
+
